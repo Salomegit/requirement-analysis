@@ -76,6 +76,8 @@ Use Case Diagrams illustrate **functional requirements** by showing interactions
 - 💻 Guide development teams  
 - 🧪 Support test case creation  
 
+
+![Use Case Diagram](./use-case-diagram.drawio.png)
 ---
 
 ## ✅ Acceptance Criteria
