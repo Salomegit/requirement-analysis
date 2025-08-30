@@ -77,7 +77,7 @@ Use Case Diagrams illustrate **functional requirements** by showing interactions
 - 🧪 Support test case creation  
 
 
-![Use Case Diagram](./use-case-diagram.drawio.png)
+![Use Case Diagram](./alx-booking-uc.png)
 ---
 
 ## ✅ Acceptance Criteria
